@@ -41,12 +41,12 @@ Here are the most important features of BEAF. If you need any further informatio
 
 ---
 
-## ⚙ Credit
+## Credit
 
 BEAF is based on the famous TwentyTwenty script that developed by [Zurb team](https://zurb.com/playground/twentytwenty).
 
 -----
 
-## ⚙ Premium Support
+## Premium Support
 
 We provides very limited support on the WordPress.org forums. Please feel free to post questions or bug reports through our [Facebook group](https://www.facebook.com/groups/themefic/)!, but for urgent support, we recommend purchasing [Pro Version](https://live.themefic.com/beaf/pro).
