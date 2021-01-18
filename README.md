@@ -21,12 +21,6 @@ With this Before and After WordPress plugin, You can showcase your before and af
 
 Here are the most important features of BEAF. If you need any further information, please feel free to contact us. Below are the best offerings of BEAF:
 
-AOS object is exposed as a global variable, for now there are three methods available:
-
-  * `init` - initialize AOS
-  * `refresh` - recalculate all offsets and positions of elements (called on window resize)
-  * `refreshHard` - reinit array with AOS elements and trigger `refresh` (called on DOM changes that are related to `aos` elements)
-
   * `Multiple layout` : Display images in Horizontal or Vertical layout.
   * `Option Panel` : BEAF has built in easy-to-use option panel. You can add or remove any options from this panel.
   * `Label Change` : Change the Label of Before-After to something you want.
