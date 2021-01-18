@@ -1,0 +1,112 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BEAF - Before and After Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-20 11:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: metabox/metabox-function.php:33
+msgid "Add After Image"
+msgstr ""
+
+#: metabox/metabox-function.php:26
+msgid "Add Before Image"
+msgstr ""
+
+#: before-and-after-gallery.php:77
+msgid "Add New"
+msgstr ""
+
+#: before-and-after-gallery.php:78
+msgid "Add New Gallery"
+msgstr ""
+
+#: metabox/metabox-function.php:34
+msgid "Add your after image"
+msgstr ""
+
+#: metabox/metabox-function.php:27
+msgid "Add your before image "
+msgstr ""
+
+#: admin/bafg-admin.php:32
+msgid "After Image"
+msgstr ""
+
+#: before-and-after-gallery.php:82
+msgid "All Galleries"
+msgstr ""
+
+#. Name of the plugin
+msgid "BEAF - Before and After Gallery"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Before and After Gallery is a wonderfull plugin for WordPress website. You "
+"can show an image before editing and after editing within a section. It's "
+"very easy to use."
+msgstr ""
+
+#: admin/bafg-admin.php:31
+msgid "Before Image"
+msgstr ""
+
+#: before-and-after-gallery.php:80
+msgid "Edit Gallery"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://themefic.com/"
+msgstr ""
+
+#: metabox/metabox-function.php:15
+msgid "Image Before After Focus"
+msgstr ""
+
+#: before-and-after-gallery.php:79
+msgid "New Gallery"
+msgstr ""
+
+#: before-and-after-gallery.php:85
+msgid "No gallery found in Trash."
+msgstr ""
+
+#: before-and-after-gallery.php:84
+msgid "No gallery found."
+msgstr ""
+
+#: metabox/metabox-function.php:55
+msgid "Orientation Style"
+msgstr ""
+
+#: before-and-after-gallery.php:83
+msgid "Search Galleries"
+msgstr ""
+
+#: admin/bafg-admin.php:30 metabox/metabox-function.php:70
+msgid "Shortcode"
+msgstr ""
+
+#. Author of the plugin
+msgid "Themefic"
+msgstr ""
+
+#: admin/bafg-admin.php:29
+msgid "Title"
+msgstr ""
+
+#: before-and-after-gallery.php:81
+msgid "View Gallery"
+msgstr ""
