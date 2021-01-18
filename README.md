@@ -11,6 +11,8 @@ With this Before and After WordPress plugin, You can showcase your before and af
 
 ### 🚀 [Demo Link](https://live.themefic.com/beaf/)
 
+---
+
 ## How It works
 
 👉 To get a better understanding how this actually works, I encourage you to check [our YouTube video](https://www.youtube.com/watch?v=ElgxbyPYH6Y/).
