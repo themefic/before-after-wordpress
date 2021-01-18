@@ -1,5 +1,5 @@
 ## Ultimate Before After Image Slider – BEAF
-[![Download from WP Repo]](https://wordpress.org/plugins/beaf-before-and-after-gallery/)
+[[Download from WP Repo]](https://wordpress.org/plugins/beaf-before-and-after-gallery/)
 
 Looking for a WordPress Before and After Slider Plugin? Want to show comparison of two images? BEAF is the Ultimate Before After WordPress Plugin with which you can easily create beautiful Before After Image comparison Slider or Gallery.
 
