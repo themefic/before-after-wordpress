@@ -5,6 +5,8 @@ Looking for a WordPress Before and After Slider Plugin? Want to show comparison 
 
 BEAF let’s you add unlimited numbers of Before After Slider in WordPress. You heard it right, unlimited for FREE. BEAF also comes up with premium high-quality features that will help you showcase your portfolio in a better way than others.
 
+With this Before and After WordPress plugin, You can showcase your before and after work by comparing two before and after images.
+
 ---
 
 ### 🚀 [Demo Link](https://live.themefic.com/beaf/)
@@ -12,8 +14,6 @@ BEAF let’s you add unlimited numbers of Before After Slider in WordPress. You 
 ## How It works
 
 👉 To get a better understanding how this actually works, I encourage you to check [our YouTube video](https://www.youtube.com/watch?v=ElgxbyPYH6Y/).
-
-With this Before and After WordPress plugin, You can showcase your before and after work by comparing two before and after images.
 
 ---
 
